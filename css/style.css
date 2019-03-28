@@ -1,0 +1,15 @@
+body{
+	background: url("../images/img1.jpg");
+	background-size: cover;
+	
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	color: #FF1493;
+}
+
+.navbar-inverse{
+	background-color: #FF1493;
+}
